@@ -1,4 +1,4 @@
-# Yazan Alawneh    ![Profile Picture](profile.jpg)
+# Yazan Alawneh    <img src="images/profile.jpg" alt="Profile Picture" width="150" height="150">
 **Android Native Developer**
 
 - **Phone**: +962 776603514  
