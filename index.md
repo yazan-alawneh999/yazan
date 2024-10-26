@@ -1,4 +1,4 @@
-# Yazan Alawneh
+# Yazan Alawneh    ![Profile Picture](profile.jpg)
 **Android Native Developer**
 
 - **Phone**: +962 776603514  
