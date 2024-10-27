@@ -1,5 +1,3 @@
-## Yazan Alawneh     
-**Android Native Developer**
 
 - **Phone**: +962 776603514  
 - **Email**: [yazanalawneh.999@gmail.com](mailto:yazanalawneh.999@gmail.com)  
