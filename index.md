@@ -1,4 +1,3 @@
-[![Logo](profile.jpg)](./)
 ## Yazan Alawneh     
 **Android Native Developer**
 
